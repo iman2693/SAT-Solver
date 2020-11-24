@@ -1,2 +1,2 @@
 # SAT-Solver
-This project is a way to find satisfiability of logical propositions . 
+This project is a way to check satisfiability of logical propositions . 
