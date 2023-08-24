@@ -15,4 +15,9 @@ This Python program serves as a basic implementation of a Boolean Satisfiability
 
 ```sh
 git clone https://github.com/iman2693/SAT-Solver.git
-cd SAT-Solver
+cd SAT-Solver 
+```
+
+##License
+
+This project is licensed under the MIT License.
