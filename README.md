@@ -9,6 +9,12 @@ This Python program serves as a basic implementation of a Boolean Satisfiability
 - Supports single-character variable names.
 - Generates all possible interpretations to check satisfiability.
 
+## Files
+
+- `sat_solver.py`: The main Python script that implements the SAT solver.
+- `LICENSE`: The license file specifying the terms of usage for this repository.
+- `README.md`: This file, providing an overview of the SAT solver and instructions.
+
 ## Getting Started
 
 1. Clone this repository to your local machine:
