@@ -17,12 +17,14 @@ This Python program serves as a basic implementation of a Boolean Satisfiability
 git clone https://github.com/iman2693/SAT-Solver.git
 cd SAT-Solver 
 ```
+----------------
+
 
 ### Notes
 
   This solver uses a basic brute-force approach and is suitable for small expressions.
   For larger or more complex expressions, consider using more advanced SAT-solving algorithms.
 
-## License
+### License
 
 This project is licensed under the MIT License.
