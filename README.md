@@ -18,6 +18,6 @@ git clone https://github.com/iman2693/SAT-Solver.git
 cd SAT-Solver 
 ```
 
-##License
+## License
 
 This project is licensed under the MIT License.
