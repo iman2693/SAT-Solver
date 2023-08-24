@@ -12,9 +12,8 @@ This Python program serves as a basic implementation of a Boolean Satisfiability
 ## Files
 
 - `satsolver.py`: The main Python script that implements the SAT solver.
-- `fomulate.txt`: Some samples for input of this script.
-- `LICENSE`: The license file specifying the terms of usage for this repository.
-- `README.md`: This file, providing an overview of the SAT solver and instructions.
+- `formuls.txt`: Some samples for the input of this script.
+- `README.md`: This file, provides an overview of the SAT solver and instructions.
 
 ## Getting Started
 
