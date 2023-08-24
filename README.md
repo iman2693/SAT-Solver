@@ -14,5 +14,5 @@ This Python program serves as a basic implementation of a Boolean Satisfiability
 1. Clone this repository to your local machine:
 
 ```sh
-git clone https://github.com/yourusername/sat-solver.git
-cd sat-solver
+git clone https://github.com/iman2693/SAT-Solver.git
+cd SAT-Solver
